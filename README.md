@@ -1,6 +1,3 @@
-# hw02
-课程表
-
 <html>
 <head>
 <meta charset="utf-8">
